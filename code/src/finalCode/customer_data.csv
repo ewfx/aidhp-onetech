@@ -1,0 +1,11 @@
+CustomerID,Age,Gender,Location,Income,SocialMediaLikes,SocialMediaShares,ReviewSentiment,ProductCategory,ProductRecommendation
+1,25,Male,New York,50000,50,30,Positive,Electronics,Smartphone
+2,30,Female,Los Angeles,60000,120,80,Negative,Fashion,Winter Coat
+3,22,Female,Chicago,40000,60,45,Positive,Books,Self-Help Book
+4,35,Male,San Francisco,90000,150,120,Neutral,Travel,Luggage Set
+5,40,Male,Miami,70000,80,60,Negative,Home Improvement,Power Tools
+6,28,Female,Seattle,55000,200,150,Positive,Health,Weight Loss Supplement
+7,32,Male,Austin,75000,95,40,Positive,Electronics,Laptop
+8,45,Female,Boston,65000,110,70,Neutral,Travel,Airline Ticket
+9,29,Female,Denver,48000,85,60,Negative,Fashion,Summer Dress
+10,26,Male,Los Angeles,55000,90,75,Positive,Books,Science Fiction Novel

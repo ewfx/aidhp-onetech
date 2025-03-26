@@ -1,0 +1,11 @@
+Customer_ID,Age,Gender,Location,Purchase_History,Social_Media_Activity,Sentiment_Score,Product_Preference
+1,29,Male,New York,"Shoes, Laptop","Liked 'Tech Updates', Tweeted about gaming",0.6,"Gaming Laptop, Headphones"
+2,45,Female,Los Angeles,"Smartphone, Dress","Instagram pics on fitness",0.8,"Fitness Tracker, Gym Wear"
+3,34,Male,Boston,"Coffee, Jacket","Tweeted about travel",0.5,"Backpack, Travel Essentials"
+4,52,Female,Chicago,"Fragrance, Shoes","Liked fashion blogs",0.7,"Perfume, Shoes"
+5,28,Male,San Francisco,"Laptop, Headphones","Tweeted about music",0.9,"Headphones, Music Subscription"
+6,60,Female,Miami,"Smartphone, Sunglasses","Liked beach posts",0.6,"Sunglasses, Beach Towel"
+7,25,Female,New York,"Dress, Laptop","Instagrammed art and design",0.8,"Art Supplies, Design Software"
+8,40,Male,Seattle,"Camera, Jacket","Liked photography posts",0.7,"Camera Accessories, Outdoor Gear"
+9,33,Female,Austin,"Books, Coffee","Instagrammed book reviews",0.9,"Books, Coffee Beans"
+10,50,Male,Denver,"Golf Clubs, Shoes","Liked sports content",0.4,"Golf Accessories, Sports Watch"

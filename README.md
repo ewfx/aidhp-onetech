@@ -14,7 +14,7 @@
 ---
 
 ## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
+Get personalized product recommendations from sentiment analysis, recommendation systems, and OpenAI
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
@@ -24,7 +24,7 @@ A brief overview of your project and its purpose. Mention which problem statemen
 ![Screenshot 1](link-to-image)
 
 ## 💡 Inspiration
-What inspired you to create this project? Describe the problem you're solving.
+Curious to Get to know how AI works
 
 ## ⚙️ What It Does
 Explain the key features and functionalities of your project.
@@ -50,11 +50,10 @@ Describe the major technical or non-technical challenges your team encountered.
    ```
 
 ## 🏗️ Tech Stack
-- 🔹 Frontend: React / Vue / Angular
-- 🔹 Backend: Node.js / FastAPI / Django
-- 🔹 Database: PostgreSQL / Firebase
-- 🔹 Other: OpenAI API / Twilio / Stripe
+OpenAI API: For natural language processing, generating content, and recommendations.
+Hugging Face Transformers: For sentiment analysis and NLP tasks.
+Python NLP Libraries: spacy, nltk, pandas, scikit-learn for data processing, analysis, and machine learning.
+Customer Sentiment Analysis Tools: Using Hugging Face models or other sentiment models.
 
 ## 👥 Team
 - **Your Name** - Lalitha Karibandi(#) | [LinkedIn](#)
-- **Teammate 2** - [GitHub](#) | [LinkedIn](#)
