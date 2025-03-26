@@ -1,0 +1,11 @@
+customer_id,name,age,gender,location
+1,Alice,28,Female,New York
+2,Bob,34,Male,Los Angeles
+3,Charlie,22,Male,San Francisco
+4,David,30,Male,Boston
+5,Eve,25,Female,Chicago
+6,Frank,40,Male,Seattle
+7,Grace,35,Female,Miami
+8,Hank,45,Male,Denver
+9,Isabel,32,Female,San Diego
+10,Jack,29,Male,Washington DC
