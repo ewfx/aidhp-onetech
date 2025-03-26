@@ -1,7 +1,7 @@
 import openai
 
-openai.api_key = "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"
 
+openai.api_key ="";
 def generate_product_recommendation(customer_profile):
     response = openai.Completion.create(
         model="text-davinci-003",
